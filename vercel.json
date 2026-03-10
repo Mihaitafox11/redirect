@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://ascensionpeptides.com/ref/mihaita/?campaign=tiktok",
+      "permanent": false
+    }
+  ]
+}
